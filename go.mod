@@ -1,1 +1,1 @@
-module github.com/STCraft/intintmap
+module github.com/stcraft/intintmap
